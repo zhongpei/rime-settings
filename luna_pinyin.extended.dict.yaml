@@ -44,6 +44,7 @@ use_preset_vocabulary: true
 import_tables:
   - luna_pinyin
   - luna_pinyin.dev
+  - luna_pinyin.devnet
   - luna_pinyin.xiandaihanyu
   - luna_pinyin.chengyusuyu
   - luna_pinyin.popular
